@@ -295,3 +295,10 @@
 // Improve table headers - 2021-05-27 10:00:00
 // Add ARIA labels - 2020-09-12 10:10:00
 // Fix variable scope - 2021-11-01 10:06:00
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
